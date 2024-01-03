@@ -19,7 +19,9 @@ The following are bonus tasks to challenge yourself, although they are not going
 Modify the app to support multiple languages, device sizes, and orientations.
 Make the app delete asteroids from the previous day once a day using the same workManager that downloads the asteroids.
 Match the styles for the details screen subtitles and values to make it consistent, and make it look like what is in the designs.
+
 #Screenshots
+
 ![image](https://github.com/omarAhmed22600/Asteroids-Radar/assets/96152606/8bdf8e61-d623-4d20-9652-c9ef4bc5250a)      ![image](https://github.com/omarAhmed22600/Asteroids-Radar/assets/96152606/fede814f-3921-4d35-82c9-1f1482dc5dba)
 
 ![image](https://github.com/omarAhmed22600/Asteroids-Radar/assets/96152606/14314abb-6218-4f24-aece-94631da40465)      ![image](https://github.com/omarAhmed22600/Asteroids-Radar/assets/96152606/06bac763-d0a8-4a8d-820d-c50c664ce43f)

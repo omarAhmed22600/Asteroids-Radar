@@ -1,4 +1,6 @@
-#Asteroids Reader
+#AsteroidsReader
+
+
 Summarized tasks
 The application you will build must:
 
